@@ -1,0 +1,8 @@
+Origin: AAA's repo
+Label: AAA's repo
+Suite: stable
+Version: 1.0
+Codename: AAA
+Architectures: iphoneos-arm
+Components: main
+Description: AAA's Repository

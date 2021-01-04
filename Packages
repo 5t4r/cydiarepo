@@ -1,0 +1,52 @@
+Package: cg.fkbky
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: caigou
+Installed-Size: 316
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cg.fkbky_0.0.2-1_iphoneos-arm.deb
+Size: 100034
+MD5sum: 60c2f88d0bb0d6047320e881b795b726
+SHA1: 6d10dae498d29bb315a9945d6c60417d297db594
+SHA256: 75b01f547e35da63137bd74c94c94229029b5f72dbf970d0ad4cbb85168d4955
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: caigou
+Name: fkbky
+
+Package: cloud.hacker.shell
+Version: 1.3.1-3
+Architecture: iphoneos-arm
+Maintainer: hacker
+Installed-Size: 35624
+Depends: mobilesubstrate,preferenceloader,findutils,readline,zip,unzip,gawk,cy+cpu.arm64,firmware (>= 10.0)
+Filename: debs/cloud.hacker.shell_1.3.1-3_iphoneos-arm.deb
+Size: 36034752
+MD5sum: 8dd25d1b2a337db37cce4f955edcb25a
+SHA1: 7abf2f273eae399e85a914bded77a1933163fbb2
+SHA256: d5082da46349991c7674aedd4dc3289fd38b7061aececd746859cc48a9c6cf9e
+Section: Utilities
+Description: 请勿用作非法用途/更安全/更可靠/更智能/深度清理/安全备份
+Author: hacker
+Depiction: 请勿用作非法用途/更安全/更可靠/更智能/深度清理/安全备份
+Icon: file:///Applications/ShellCloud.app/AppIcon29x29@2x.png
+Name: 贝壳
+
+Package: gawk
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 2952
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: debs/gawk_4.2.1-1_iphoneos-arm.deb
+Size: 255388
+MD5sum: 12759052538b65c2d84b035a605c4187
+SHA1: 8e98a73d5597134a07115f90181c668a15dad63b
+SHA256: 684a3dfe585766c04f5544a7f308f365f54faba6d2cc2318d04453d12a6ff55b
+Section: Utilities
+Priority: important
+Multi-Arch: foreign
+Homepage: http://www.gnu.org/software/gawk/
+Description: GNU's heavy-weight implementation of awk
+Name: Gawk
+
