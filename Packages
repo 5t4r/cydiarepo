@@ -1,16 +1,16 @@
 Package: cg.fkbky
-Version: 0.0.2-1
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: caigou
-Installed-Size: 316
+Installed-Size: 488
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/cg.fkbky_0.0.2-1_iphoneos-arm.deb
-Size: 100034
-MD5sum: 60c2f88d0bb0d6047320e881b795b726
-SHA1: 6d10dae498d29bb315a9945d6c60417d297db594
-SHA256: 75b01f547e35da63137bd74c94c94229029b5f72dbf970d0ad4cbb85168d4955
+Filename: debs/cg.fkbky_0.0.3_iphoneos-arm.deb
+Size: 131464
+MD5sum: ecbe2d0edb1e61aba5a4f135688d092c
+SHA1: 416678b4398036e8581f10fcae12005a9a6903cf
+SHA256: 082314023c13d6d73137c0baf8328e6bc981e1715c66908cdb39dbeec35f110d
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: add bk1.5.0-51
 Author: caigou
 Name: fkbky
 
